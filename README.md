@@ -1,6 +1,6 @@
 # SDK
 
-Sure, here's a detailed list of CLI commands for SDK tools, focusing on various aspects of development and management.
+Here's a detailed list of CLI commands for SDK tools, focusing on various aspects of development and management.
 
 ### **1. Android SDK (SDK Manager and ADB)**
 
